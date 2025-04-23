@@ -65,8 +65,8 @@ Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por
 <p align="left">
   <img
     alt="estatistica-github"
-    height="250"
-    style="padding-right: 10px;"
+    height="210"
+    style="padding-bottom: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=iaejotape&show_icons=true&theme=tokyonight" 
   />
   <img
