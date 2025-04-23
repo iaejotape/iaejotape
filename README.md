@@ -60,8 +60,6 @@ Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por
 
 ### 📈 Estatísticas GitHub
 
-### 📈 Estatísticas GitHub
-
 <p align="center">
   <img
     alt="estatistica-github"
