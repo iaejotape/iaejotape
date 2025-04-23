@@ -30,7 +30,7 @@ Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por
     <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-8.2k -E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 Tecnologias & Ferramentas
 
