@@ -30,7 +30,7 @@ Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por
     <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-8.2k -E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 Tecnologias & Ferramentas
 
@@ -60,12 +60,17 @@ Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por
 
 ### 📈 Estatísticas GitHub
 
+### 📈 Estatísticas GitHub
+
 <p align="left">
-  <img 
-    height="200" 
+  <img
+    alt="estatistica-github"
+    height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=iaejotape&show_icons=true&theme=tokyonight" 
   />
-  <img 
+  <img
+    alt="principais-tecnologias"
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaejotape&theme=tokyonight&layout=compact&langs_count=9" 
   />
