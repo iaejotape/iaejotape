@@ -62,19 +62,19 @@ Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por
 
 ### 📈 Estatísticas GitHub
 
-<p align="left">
+<p align="center">
   <img
     alt="estatistica-github"
-    height="218"
-    style="padding-bottom: 10px;"
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=iaejotape&show_icons=true&theme=tokyonight" 
   />
   <img
     alt="principais-tecnologias"
-    height="200" 
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaejotape&theme=tokyonight&layout=compact&langs_count=9" 
   />
 </p>
+
 
 ---
 
