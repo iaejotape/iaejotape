@@ -4,19 +4,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Mão acenando" />
 </p>
 
-<p align="center">
+<p align="left">
 Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas no IFPI. Curioso por natureza e apaixonado por transformar código em soluções que fazem a diferença.
 </p>
 
-<p align="center">
+<p align="left">
 💻 Curto criar projetos web com tecnologias modernas, sempre focando em código limpo, boas práticas e usabilidade.
 </p>
 
-<p align="center">
+<p align="left">
 🚀 Compartilho meus aprendizados e projetos nas redes, chega junto!
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Estrelas -->
   <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers">
     <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?label=ESTRELAS&logo=star&labelColor=55960c&color=488207&style=for-the-badge"/>
@@ -42,7 +42,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 
 ### 🚀 Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="30" />
@@ -68,7 +68,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 
 ### 📈 Estatísticas GitHub
 
-<p align="center">
+<p align="left">
   <img
     alt="estatistica-github"
     height="218"
@@ -86,6 +86,6 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 
 ### 📬 Vamos Conectar?
 
-<p align="center">
+<p align="left">
 Sinta-se à vontade para abrir issues, enviar mensagens ou apenas bater um papo sobre tecnologia. 💬
 </p>
