@@ -7,7 +7,7 @@
   
 
 <p align="left">
-👋 Fala, sou o João Pedro! Estudante de Análise e Desenvolvimento de Sistemas no IFPI, apaixonado por transformar ideias em soluções reais através do código.
+👋 Iae, sou o João Pedro! Estudante de Análise e Desenvolvimento de Sistemas no IFPI, apaixonado por transformar ideias em soluções reais através do código.
 </p>
 
 
