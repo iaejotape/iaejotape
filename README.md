@@ -17,19 +17,27 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 </p>
 
 <p align="center">
+  <!-- Estrelas -->
   <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+    <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?label=ESTRELAS&logo=star&labelColor=55960c&color=488207&style=for-the-badge"/>
   </a>
+
+  <!-- Seguidores -->
   <a href="https://github.com/iaejotape?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/iaejotape?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/iaejotape?label=SEGUIDORES&logo=github&labelColor=30363d&color=2d2d2d&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jotape-dev-one/">
-    <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-5 -0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <!-- LinkedIn com azul mais escuro no valor -->
+  <a href="https://www.linkedin.com/in/iaejotape/">
+    <img alt="LinkedIn" title="Me segue no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-5-005582?logo=linkedin&labelColor=0077B5&style=for-the-badge"/>
   </a>
-  <a href="https://www.instagram.com/iaejottape/">
-    <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-8.2k -E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+  <!-- Instagram com rosa escuro no valor -->
+  <a href="https://www.instagram.com/iaejotape/">
+  <img alt="Instagram" title="Me segue no Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8.2k-B13248?logo=instagram&labelColor=E4405F&style=for-the-badge"/>
   </a>
-</p>
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 Tecnologias & Ferramentas
