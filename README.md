@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-Olá! Me chamo João Pedro Damasceno e sou movido pela curiosidade e paixão por transformar ideias em soluções digitais. Especialista em desenvolvimento web com foco em tecnologias modernas, compartilho meus aprendizados e projetos com a comunidade através das redes sociais e iniciativas open source.
+Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas no IFPI. Curioso por natureza e apaixonado por transformar código em soluções que fazem a diferença.
 </p>
 
 <p align="center">
-🛠️ Gosto de construir soluções que resolvem problemas reais, com código limpo, boas práticas e foco na experiência do usuário.
+💻 Curto criar projetos web com tecnologias modernas, sempre focando em código limpo, boas práticas e usabilidade.
 </p>
 
 <p align="center">
-📢 Acompanhe meus conteúdos sobre desenvolvimento, produtividade e carreira dev nas plataformas abaixo:
+🚀 Compartilho meus aprendizados e projetos nas redes — chega junto!
 </p>
 
 <p align="center">
