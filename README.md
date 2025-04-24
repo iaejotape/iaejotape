@@ -33,7 +33,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
   </a>
 
   <!-- Instagram com rosa escuro no valor -->
-  <a href="https://www.instagram.com/iaejotape/">
+  <a href="https://www.instagram.com/iaejottape/">
   <img alt="Instagram" title="Me segue no Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8.2k-B13248?logo=instagram&labelColor=E4405F&style=for-the-badge"/>
   </a>
 
