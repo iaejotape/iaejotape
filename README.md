@@ -21,24 +21,33 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 
 <p align="left">
   <!-- Estrelas -->
-  <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers">
+  <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?label=ESTRELAS&logo=star&labelColor=55960c&color=488207&style=for-the-badge"/>
   </a>
 
   <!-- Seguidores -->
-  <a href="https://github.com/iaejotape?tab=followers">
+  <a href="https://github.com/iaejotape?tab=followers" target="_blank">
     <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/iaejotape?label=SEGUIDORES&logo=github&labelColor=30363d&color=2d2d2d&style=for-the-badge"/>
   </a>
 
   <!-- LinkedIn com azul mais escuro no valor -->
-  <a href="https://www.linkedin.com/in/jotape-dev-one/">
+  <a href="https://www.linkedin.com/in/jotape-dev-one/" target="_blank">
     <img alt="LinkedIn" title="Me segue no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-5-005582?logo=linkedin&labelColor=0077B5&style=for-the-badge"/>
   </a>
 
   <!-- Instagram com rosa escuro no valor -->
-  <a href="https://www.instagram.com/iaejottape/">
+  <a href="https://www.instagram.com/iaejottape/" target="_blank"> 
   <img alt="Instagram" title="Me segue no Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8.2k-B13248?logo=instagram&labelColor=E4405F&style=for-the-badge"/>
   </a>
+
+  <a href="https://www.youtube.com/@NowifyOFICIAL?sub_confirmation=1" target="_blank">
+  <img 
+    alt="YouTube" 
+    title="Inscreva-se no canal!" 
+    src="https://custom-icon-badges.demolab.com/badge/YOUTUBE-5.36k-CE4630?&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+  />
+</a>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
