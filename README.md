@@ -7,16 +7,16 @@
   
 
 <p align="left">
-Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas no IFPI. Curioso por natureza e apaixonado por transformar código em soluções que fazem a diferença.
+👋 Fala, sou o João Pedro! Estudante de Análise e Desenvolvimento de Sistemas no IFPI, apaixonado por transformar ideias em soluções reais através do código.
 </p>
 
 
 <p align="left">
-💻 Curto criar projetos web com tecnologias modernas, sempre focando em código limpo, boas práticas e usabilidade.
+💻 Curto desenvolver projetos web com tecnologias modernas, sempre prezando por um código limpo, boas práticas e uma experiência de usuário top.
 </p>
 
 <p align="left">
-🚀 Compartilho meus aprendizados e projetos nas redes, chega junto!
+🚀 Tô sempre aprendendo e compartilhando meus projetos e descobertas nas redes. Chega mais e acompanha a jornada!
 </p>
 
 <p align="left">
