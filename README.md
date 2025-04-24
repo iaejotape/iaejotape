@@ -13,7 +13,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 </p>
 
 <p align="center">
-🚀 Compartilho meus aprendizados e projetos nas redes — chega junto!
+🚀 Compartilho meus aprendizados e projetos nas redes, chega junto!
 </p>
 
 <p align="center">
