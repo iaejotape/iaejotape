@@ -1,13 +1,10 @@
 <p align="center">
   <!-- GIF no topo -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU1MTEwNTgsIm5iZiI6MTc0NTUxMDc1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI0VDE2MDU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4YmU5YzgzNmE5MjEwNjFlYjYzNGQ1ODZkMTUyODk2ODEzYjgwZmM3MWQ3MGE1YWE5MDhmZTI3MDcyNjJjN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2bOx3wdzbaYbN3y9-jPaJD23ehBCiqrmWVS0O-2UnTw" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
   
   <!-- Seu nome com efeito de digitação abaixo do GIF -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Jo%C3%A3o+Pedro+Damasceno;Desenvolvedor+Front-End" alt="Animação de texto digitando" />
   
-  <!-- Ícone de mão acenando -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Mão acenando" />
-</p>
 
 <p align="left">
 Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas no IFPI. Curioso por natureza e apaixonado por transformar código em soluções que fazem a diferença.
@@ -44,7 +41,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
   </a>
 
 
------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 
 ### 🚀 Tecnologias & Ferramentas
 
@@ -58,7 +55,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="30" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 
 ### 📌 Projetos em Destaque
 
@@ -70,7 +67,8 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 
 - 🔗 [**Feira Shop** – MarketPlace Local](...)  
   <sub>Tecnologias: HTML, CSS, JavaScript, React Native</sub>
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 
 ### 📈 Estatísticas GitHub
 
@@ -88,7 +86,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 
 ### 📬 Vamos Conectar?
 
