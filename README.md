@@ -28,7 +28,7 @@ Fala aí! Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas n
   </a>
 
   <!-- LinkedIn com azul mais escuro no valor -->
-  <a href="https://www.linkedin.com/in/iaejotape/">
+  <a href="https://www.linkedin.com/in/jotape-dev-one/">
     <img alt="LinkedIn" title="Me segue no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-5-005582?logo=linkedin&labelColor=0077B5&style=for-the-badge"/>
   </a>
 
