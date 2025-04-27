@@ -21,26 +21,26 @@
 
 <p align="left">
   <!-- Estrelas -->
-  <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers">
     <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?label=ESTRELAS&logo=star&labelColor=55960c&color=488207&style=for-the-badge"/>
   </a>
 
   <!-- Seguidores -->
-  <a href="https://github.com/iaejotape?tab=followers" target="_blank">
+  <a href="https://github.com/iaejotape?tab=followers">
     <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/iaejotape?label=SEGUIDORES&logo=github&labelColor=30363d&color=2d2d2d&style=for-the-badge"/>
   </a>
 
   <!-- LinkedIn com azul mais escuro no valor -->
-  <a href="https://www.linkedin.com/in/jotape-dev-one/" target="_blank">
+  <a href="https://www.linkedin.com/in/jotape-dev-one/">
     <img alt="LinkedIn" title="Me segue no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-5-005582?logo=linkedin&labelColor=0077B5&style=for-the-badge"/>
   </a>
 
   <!-- Instagram com rosa escuro no valor -->
-  <a href="https://www.instagram.com/iaejottape/" target="_blank"> 
+  <a href="https://www.instagram.com/iaejottape/"> 
   <img alt="Instagram" title="Me segue no Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8.2k-B13248?logo=instagram&labelColor=E4405F&style=for-the-badge"/>
   </a>
 
-  <a href="https://www.youtube.com/@NowifyOFICIAL?sub_confirmation=1" target="_blank">
+  <a href="https://www.youtube.com/@NowifyOFICIAL?sub_confirmation=1">
   <img 
     alt="YouTube" 
     title="Inscreva-se no canal!" 
