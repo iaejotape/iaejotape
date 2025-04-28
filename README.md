@@ -27,8 +27,8 @@
 
 
   <a href="https://github.com/iaejotape?tab=followers">
-  <img alt="Seguidores" src="https://img.shields.io/github/followers/iaejotape?label=Seguidores&style=for-the-badge" />
-  </a>
+  <img alt="Seguidores" src="https://img.shields.io/github/followers/iaejotape?label=SEGUIDORES&logo=github&labelColor=30363d&color=2d2d2d&style=for-the-badge" />
+</a>
 
 
   <a href="https://www.linkedin.com/in/jotape-dev-one/">
