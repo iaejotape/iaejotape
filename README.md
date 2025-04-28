@@ -1,8 +1,8 @@
 <p align="center">
   <!-- GIF no topo -->
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
   
-  <!-- Seu nome com efeito de digitação abaixo do GIF -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Jo%C3%A3o+Pedro+Damasceno;Desenvolvedor+Front-End" alt="Animação de texto digitando" />
   
 
@@ -20,22 +20,22 @@
 </p>
 
 <p align="left">
-  <!-- Estrelas -->
+
   <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers">
     <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?label=ESTRELAS&logo=star&labelColor=55960c&color=488207&style=for-the-badge"/>
   </a>
 
-  <!-- Seguidores -->
+
   <a href="https://github.com/iaejotape?tab=followers">
-    <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/iaejotape?label=SEGUIDORES&logo=github&labelColor=30363d&color=2d2d2d&style=for-the-badge"/>
+  <img alt="Seguidores" src="https://img.shields.io/github/followers/iaejotape?label=Seguidores&style=for-the-badge" />
   </a>
 
-  <!-- LinkedIn com azul mais escuro no valor -->
+
   <a href="https://www.linkedin.com/in/jotape-dev-one/">
     <img alt="LinkedIn" title="Me segue no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-5-005582?logo=linkedin&labelColor=0077B5&style=for-the-badge"/>
   </a>
 
-  <!-- Instagram com rosa escuro no valor -->
+
   <a href="https://www.instagram.com/iaejottape/"> 
   <img alt="Instagram" title="Me segue no Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8.2k-B13248?logo=instagram&labelColor=E4405F&style=for-the-badge"/>
   </a>
