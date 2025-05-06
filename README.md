@@ -1,104 +1,44 @@
 <p align="center">
-  <!-- GIF no topo -->
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+<br><br>
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Jo%C3%A3o+Pedro+Damasceno;Desenvolvedor+Front-End" alt="Animação de texto digitando" />
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+João+Pedro;I'm+a+Systems+Analysis+and+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left">
-👋 Iae, sou o João Pedro! Estudante de Análise e Desenvolvimento de Sistemas no IFPI, apaixonado por transformar ideias em soluções reais através do código.
-</p>
-
-
-<p align="left">
-💻 Curto desenvolver projetos web com tecnologias modernas, sempre prezando por um código limpo, boas práticas e uma experiência de usuário top.
-</p>
-
-<p align="left">
-🚀 Tô sempre aprendendo e compartilhando meus projetos e descobertas nas redes. Chega mais e acompanha a jornada!
-</p>
-
-<p align="left">
-
-  <a href="https://github.com/iaejotape?tab=repositories&sort=stargazers">
-    <img alt="Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iaejotape?label=ESTRELAS&logo=star&labelColor=55960c&color=488207&style=for-the-badge"/>
+<div align="center">
+  <br><br>
+  <a href="https://www.jotapeportfolio.com.br/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-CHECK%20HERE%20MY%20PERSONAL%20PORTFOLIO-00BFFF?style=for-the-badge&logo=web&logoColor=black" alt="Portfolio Badge">
   </a>
+</div>
+<br><br>
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=iaejotape&show_icons=true&theme=default&text_color=fff&title_color=00BFFF&rank_icon=default&bg_color=0d1117&icon_color=00BFFF&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaejotape&layout=compact&text_color=fff&title_color=00BFFF&bg_color=0d1117&hide_border=true&locale=pt-BR">  
+  <br><br>
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iaejotape&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=00BFFF&line=fff&days=15&text_color=fff&title_color=00BFFF&bg_color=0d1117&icon_color=00BFFF&include_all_commits=true&count_private=true)](https://github.com/iaejotape/github-readme-activity-graph)
+</div>
 
-  <a href="https://github.com/iaejotape?tab=followers">
-  <img alt="Seguidores" src="https://img.shields.io/github/followers/iaejotape?label=SEGUIDORES&logo=github&labelColor=30363d&color=2d2d2d&style=for-the-badge" />
-</a>
+<div align="center"> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gamesjoaopedro43@gmail.com&su=Ol%C3%A1%20Jo%C3%A3o%20Pedro!&body=..."><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="60"/></a>
+  <a href="https://www.linkedin.com/in/jotape-dev-one/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" /></a>
+  <a href="https://www.instagram.com/iaejottape/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" /></a>
+</div>
 
+<br>
+<div align="center"> 
+  <img width="50%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+</div>
 
-  <a href="https://www.linkedin.com/in/jotape-dev-one/">
-    <img alt="LinkedIn" title="Me segue no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-6-005582?logo=linkedin&labelColor=0077B5&style=for-the-badge"/>
+<div align="center">
+  <h3>Skills:</h3>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,js,react,vite,nodejs,html,css,figma&perline=8" />
   </a>
+</div>
 
-
-  <a href="https://www.instagram.com/iaejottape/"> 
-  <img alt="Instagram" title="Me segue no Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-8.2k-B13248?logo=instagram&labelColor=E4405F&style=for-the-badge"/>
-  </a>
-
-  <a href="https://www.youtube.com/@NowifyOFICIAL?sub_confirmation=1">
-  <img 
-    alt="YouTube" 
-    title="Inscreva-se no canal!" 
-    src="https://custom-icon-badges.demolab.com/badge/YOUTUBE-5.36k-CE4630?&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-  />
-</a>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
-
-### 🚀 Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="30" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
-
-### 📌 Projetos em Destaque
-
-- 🔗 [**AgendaAi** – App de agendamentos de serviços de beleza](https://github.com/iaejotape/AgendaAi)  
-  <sub>Tecnologias: Figma</sub>
-
-- 🔗 [**Controle Gamer** – transforme a BitDogLab em Controle Gamer](https://github.com/iaejotape/Controle-Gamer)  
-  <sub>Tecnologias: C</sub>
-
-- 🔗 [**Feira Shop** – MarketPlace Local](...)  
-  <sub>Tecnologias: HTML, CSS, JavaScript, React Native</sub>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
-
-### 📈 Estatísticas GitHub
-
-<p align="left">
-  <img
-    alt="estatistica-github"
-    height="218"
-    src="https://github-readme-stats.vercel.app/api?username=iaejotape&show_icons=true&theme=tokyonight" 
-  />
-  <img
-    alt="principais-tecnologias"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaejotape&theme=tokyonight&layout=compact&langs_count=9" 
-  />
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF de código animado" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
-
-### 📬 Vamos Conectar?
-
-<p align="left">
-Sinta-se à vontade para abrir issues, enviar mensagens ou apenas bater um papo sobre tecnologia. 💬
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
