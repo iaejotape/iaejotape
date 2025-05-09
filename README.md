@@ -10,6 +10,22 @@
     <img src="https://img.shields.io/badge/-CHECK%20HERE%20MY%20PERSONAL%20PORTFOLIO-00BFFF?style=for-the-badge&logo=web&logoColor=black" alt="Portfolio Badge">
   </a>
 </div>
+
+<!-- 🚀 PROJETOS EM DESTAQUE -->
+<br><br>
+<div align="center">
+  <h3>🚀 Projetos em Destaque</h3>
+</div>
+
+<div align="center">
+  <a href="https://github.com/iaejotape/Overflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iaejotape&repo=Overflow&theme=default&bg_color=0d1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true" />
+  </a>
+  <a href="https://github.com/iaejotape/Cadastro-Usuario">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iaejotape&repo=Cadastro-Usuario&theme=default&bg_color=0d1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true" />
+  </a>
+</div>
+
 <br><br>
 <div align="center">
   <table>
@@ -25,10 +41,9 @@
     </table>
 </div>
 </a>
-  <br><br>
+<br><br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iaejotape&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=00BFFF&line=fff&days=15&text_color=fff&title_color=00BFFF&bg_color=0d1117&icon_color=00BFFF&include_all_commits=true&count_private=true)](https://github.com/iaejotape/github-readme-activity-graph)
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iaejotape&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=00BFFF&line=fff&days=15&text_color=fff&title_color=00BFFF&bg_color=0d1117&icon_color=00BFFF&include_all_commits=true&count_private=true)](https://github.com/iaejotape/github-readme-activity-graph)
 
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gamesjoaopedro43@gmail.com&su=Ol%C3%A1%20Jo%C3%A3o%20Pedro!&body=..."><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="60"/></a>
