@@ -11,9 +11,20 @@
   </a>
 </div>
 <br><br>
-<div align="center">  
+<div align="center">
+  <table>
+    <tr>
+      <td>
   <img src="https://github-readme-stats.vercel.app/api?username=iaejotape&show_icons=true&theme=default&text_color=fff&title_color=00BFFF&rank_icon=default&bg_color=0d1117&icon_color=00BFFF&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaejotape&layout=compact&text_color=fff&title_color=00BFFF&bg_color=0d1117&hide_border=true&locale=pt-BR">  
+        </td>
+      <td>
+  <a href="https://github.com/iaejotape" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaejotape&langs_count=10&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1117&hide_border=true&locale=pt-BR&custom_title=Linguagens%20mais%20Usadas" alt="Top Languages" />
+    </td>
+    </tr>
+    </table>
+</div>
+</a>
   <br><br>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iaejotape&custom_title=Minhas%20Contribuições&hide_border=true&theme=one-dark&point=00BFFF&line=fff&days=15&text_color=fff&title_color=00BFFF&bg_color=0d1117&icon_color=00BFFF&include_all_commits=true&count_private=true)](https://github.com/iaejotape/github-readme-activity-graph)
