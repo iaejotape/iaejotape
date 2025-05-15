@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iaejotape&repo=Overflow&theme=default&bg_color=0d1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true" />
   </a>
   <a href="https://github.com/iaejotape/Cadastro-Usuario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iaejotape&repo=Cadastro-Usuario&theme=default&bg_color=0d1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iaejotape&repo=Cadastro-Uuario&theme=default&bg_color=0d1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true" />
   </a>
 </div>
 
