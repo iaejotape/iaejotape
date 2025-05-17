@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,react,vite,nodejs,html,css,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,react,vite,nodejs,html,css,figma,ps,postgres&perline=8" />
   </a>
 </div>
 
