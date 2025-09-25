@@ -1,18 +1,15 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+João+Pedro;I'm+a+Systems+Analysis+and+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">
-  <br><br>
   <a href="https://www.jotapeportfolio.com.br/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-CHECK%20HERE%20MY%20PERSONAL%20PORTFOLIO-00BFFF?style=for-the-badge&logo=web&logoColor=black" alt="Portfolio Badge">
   </a>
+  <br><br>
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <!-- 🚀 PROJETOS EM DESTAQUE -->
-<br><br>
+
 <div align="center">
   <h3>🚀 Projetos em Destaque</h3>
 </div>
@@ -69,5 +66,4 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br><br>
