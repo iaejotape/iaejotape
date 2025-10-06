@@ -73,8 +73,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode,js,react,vite,nodejs,html,css,figma,ps,postgres&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,figma,ps,nodejs,dotnet,c,python,postgres,sqlite&perline=8" />
+</a>
 </div>
 
 <br><br>
